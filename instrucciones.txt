@@ -1,0 +1,12 @@
+n + clickIzq = nuevaFigura
+n + clickDer = borrarFigura
+r + scrollUp = rotarIzq
+r + scrollDown = rotarDer
+s + scrollUp = maximize
+s + scrollDown = Minimize
+w + scrollUp = wideMaximize
+w + scrollDown = whideMinimize
+h + scrollUp = heightMaximize
+h + scrollDown = heightMinimize
+
+
